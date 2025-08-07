@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknew_bedford_framework=self.webpackChunknew_bedford_framework||[]).push([[654],{23846:function(e,o,a){a.r(o);var r=a(68444),t=a.n(r),f=a(17228);o.default=function(e){var o=function(){"true"===t().getValue("tweak-blog-item-show-author-profile")&&f.A.loadLazy(e,{load:!0,mode:"cover"})};t().watch(["tweak-blog-item-show-author-profile"],o),o()}}}]);
